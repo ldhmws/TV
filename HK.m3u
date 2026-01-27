@@ -2,6 +2,14 @@
 
 ########## Viu ##########
 
+#EXTINF:-1 group-title="Live TV",Viu TV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 group-title="Live TV",Viu TV 6
+http://hls.168.us.kg/u/96/master.m3u8
+
+#EXTINF:-1 group-title="Live TV",MyTV Super
+http://iptv.4666888.xyz/iptv2A.php?id=32
 
 ########## TVB ##########
 
@@ -717,6 +725,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 
 #EXTINF:-1 group-title="Live TV",PFL
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4&serverSideAds=false&checkedby:iptvcat.com
+
 
 
 
