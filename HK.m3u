@@ -227,53 +227,89 @@ http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=
 #EXTINF:-1 group-title="Live TV",央視风云音乐
 http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
 
-#EXTINF:-1 group-title="Live TV",北京财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1769395213&sign=79a77c212d1cb7f224e90a1f16e19ddb
+#EXTINF:-1 group-title="Live TV",东方卫视
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="Live TV",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1769395211&sign=8b9b1e5a27f861d78f7ba7d4ec74fe14
+#EXTINF:-1 group-title="Live TV",江苏卫视
+http://23.237.228.134/live3/jiangsu.m3u8
 
-#EXTINF:-1 group-title="Live TV",北京生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1769395214&sign=517f8f30d90132decf62ae2fe3406601
+#EXTINF:-1 group-title="Live TV",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1769395209&sign=ff9ca71cdc5d08856fb949431a6306f4
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1769395210&sign=c19e2e8d5fb1c1f9a46a4758d9331507
+#EXTINF:-1 group-title="Live TV",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",北京新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1769395215&sign=0eb7d80358bccddec096f5869474424d
+#EXTINF:-1 group-title="Live TV",四川卫视
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1769395212&sign=553771b7ae1b8ad59a96f51a528776fa
+#EXTINF:-1 group-title="Live TV",广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",广西卫视
-https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+#EXTINF:-1 group-title="Live TV",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",海南卫视
-https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
-
-#EXTINF:-1 group-title="Live TV",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1769401822&k=eb2b69ac2b93a7e7576c340c736e61be
-
-#EXTINF:-1 group-title="Live TV",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1bcad23c39eb3f0b90b4d0449a589fe9&wsTime=1769409008&wsSession=7d3d8257fc9875dcd663a0cf-176939460832943&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="Live TV",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=7de9bf9d604e2a73916c6f3ee379c6b4&txTime=69770A86
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=e7cb227dfc004560b5059e846c380e60
+#EXTINF:-1 group-title="Live TV",辽宁卫视
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x4sh8gV.m3u8
+#EXTINF:-1 group-title="Live TV",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",陕西卫视
-http://stream.snrtv.com/sxbc-star-yzGOPX.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=d981932f34e3e66026dd262f38c19a35&time=6976d1ad
+#EXTINF:-1 group-title="Live TV",贵州卫视
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",湖南卫视
+http://23.237.228.134/live6/hunan.m3u8
+
+#EXTINF:-1 group-title="Live TV",河南卫视
+http://23.237.228.134/live6/henan.m3u8
+
+#EXTINF:-1 group-title="Live TV",安徽卫视
+http://23.237.228.134/live8/anhui.m3u8
+
+#EXTINF:-1 group-title="Live TV",重庆卫视
+http://23.237.228.134/live6/chongqing.m3u8
+
+#EXTINF:-1 group-title="Live TV",山西卫视
+http://23.237.228.134/live8/shanxi.m3u8
+
+#EXTINF:-1 group-title="Live TV",青海卫视
+http://23.237.228.134/live8/qinghai.m3u8
+
+#EXTINF:-1 group-title="Live TV",河北卫视
+http://23.237.228.134/live8/hebei.m3u8
+
+#EXTINF:-1 group-title="Live TV",内蒙古卫视
+http://23.237.228.134/live8/neimenggu.m3u8
+
+#EXTINF:-1 group-title="Live TV",上海新聞綜合
+http://43.251.226.89:8080/play/54.m3u8
 
 ########## 日本 ##########
 
@@ -725,6 +761,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 
 #EXTINF:-1 group-title="Live TV",PFL
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4&serverSideAds=false&checkedby:iptvcat.com
+
 
 
 
