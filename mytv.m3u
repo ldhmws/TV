@@ -92,22 +92,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 ########## 澳門 ##########
 
 #EXTINF:-1 group-title="Live TV",澳視澳門
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
+https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8
 
 #EXTINF:-1 group-title="Live TV",澳門莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
 #EXTINF:-1 group-title="Live TV",澳門Macau
 http://php.jdshipin.com/PLTV/iptv.php?id=as
-
-#EXTINF:-1 group-title="Live TV",澳视资讯
-https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",澳视体育
-https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",澳视综艺
-https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 ########## 影視 ##########
 
@@ -118,7 +109,10 @@ http://php.jdshipin.com/smt.php?id=Celestial
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
 
 #EXTINF:-1 group-title="Live TV",美亚电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+https://stream1.freetv.fun/a4b8fe407a4b5437b5f42b2022fce49f1c00bfacacf85437bc818b4b2d78dfd7.m3u8
+
+#EXTINF:-1 group-title="Live TV",纬来电影
+https://stream1.freetv.fun/b2a964056225995e97dae01ee12ad1731055d1dd02b9d72dea856be583cee351.m3u8
 
 #EXTINF:-1 group-title="Live TV",千禧经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -130,6 +124,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 ########## 台灣 ##########
+
+#EXTINF:-1 group-title="Live TV",中天新闻
+https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
 
 #EXTINF:-1 group-title="Live TV",astro Aec
 http://php.jdshipin.com/smt.php?id=AEC
@@ -7741,6 +7738,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
