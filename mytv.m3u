@@ -51,11 +51,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="Live TV",鳳凰香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-########## 香港有線 ##########
-
-#EXTINF:-1 group-title="Live TV",香港有線新聞台
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-
 ########## Now ##########
 
 #EXTINF:-1 group-title="Live TV",Now 財經台
@@ -128,6 +123,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="Live TV",中天新闻
 https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
 
+#EXTINF:-1 group-title="Live TV",东森综合2台
+http://iptv.4666888.xyz/iptv2A.php?id=5
+
 #EXTINF:-1 group-title="Live TV",astro Aec
 http://php.jdshipin.com/smt.php?id=AEC
 
@@ -171,7 +169,7 @@ http://23.237.228.134/live5/CCTV3.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",CCTV 5
-http://23.237.228.134/live5/CCTV5.m3u8
+http://69.30.245.50/live/cctv5.m3u8
 
 #EXTINF:-1 group-title="Live TV",CCTV 5+
 http://23.237.228.134/live5/CCTV5p.m3u8
@@ -755,9 +753,6 @@ https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
 
 #EXTINF:-1 group-title="Live TV",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",WWE
-http://iptv.4666888.xyz/iptv2A.php?id=5
 
 #EXTINF:-1 group-title="Live TV",Bellator MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&checkedby:iptvcat.com
@@ -7738,6 +7733,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
