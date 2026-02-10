@@ -193,13 +193,13 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",CCTV 12
-http://23.237.228.134/live5/CCTV12.m3u8
+http://43.156.8.127:5050/ysp?id=2027248801&pid=600001807&q=fhd
 
 #EXTINF:-1 group-title="Live TV",CCTV 13
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",CCTV 14
-http://23.237.228.134/live5/CCTV14.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="Live TV",CCTV 15
 http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
@@ -208,16 +208,19 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="Live TV",CCTV 17
-http://23.237.228.134/live5/CCTV17.m3u8
+http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
+
+#EXTINF:-1 group-title="Live TV",CCTV 8K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",CCTV兵器科技
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
 
 #EXTINF:-1 group-title="Live TV",央視台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Live TV",央視怀旧剧场
 http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
-
-#EXTINF:-1 group-title="Live TV",央視风云足球
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
 
 #EXTINF:-1 group-title="Live TV",央視风云音乐
 http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
@@ -7733,6 +7736,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
