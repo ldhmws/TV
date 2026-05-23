@@ -5,9 +5,6 @@
 #EXTINF:-1 group-title="Live TV",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
-#EXTINF:-1 group-title="Live TV",Viu TV 6
-http://hls.168.us.kg/u/96/master.m3u8
-
 #EXTINF:-1 group-title="Live TV",MyTV Super
 http://iptv.4666888.xyz/iptv2A.php?id=32
 
@@ -22,14 +19,8 @@ https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 group-title="Live TV",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 
-#EXTINF:-1 group-title="Live TV",TVB 翡翠1台
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-
 #EXTINF:-1 group-title="Live TV",TVB 翡翠3台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-
-#EXTINF:-1 group-title="Live TV",TVB 無線新聞台
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
 #EXTINF:-1 group-title="Live TV",TVB 娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -53,28 +44,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 ########## Now ##########
 
-#EXTINF:-1 group-title="Live TV",Now 財經台
-http://hls.168.us.kg/u/333/master.m3u8
-
 #EXTINF:-1 group-title="Live TV",Now 新聞台
 https://cdn.163189.xyz/163189/now
-
-#EXTINF:-1 group-title="Live TV",Now 直播台
-http://hls.168.us.kg/u/331/master.m3u8
-
-#EXTINF:-1 group-title="Live TV",Now 星影台
-http://rihou.cc:555/tv/[Bx]Now星影
-
-#EXTINF:-1 group-title="Live TV",Now 爆谷台
-http://rihou.cc:555/tv/[Bx]Now爆谷
 
 ########## HOY ##########
 
 #EXTINF:-1 group-title="Live TV",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-#EXTINF:-1 group-title="Live TV",HOY 78
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
 
 ########## 港台電視 ##########
 
@@ -89,25 +65,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="Live TV",澳視澳門
 https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8
 
-#EXTINF:-1 group-title="Live TV",澳門莲花
-http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-
 #EXTINF:-1 group-title="Live TV",澳門Macau
 http://php.jdshipin.com/PLTV/iptv.php?id=as
 
 ########## 影視 ##########
 
-#EXTINF:-1 group-title="Live TV",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
-
 #EXTINF:-1 group-title="Live TV",翡翠华丽
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
-
-#EXTINF:-1 group-title="Live TV",美亚电影
-https://stream1.freetv.fun/a4b8fe407a4b5437b5f42b2022fce49f1c00bfacacf85437bc818b4b2d78dfd7.m3u8
-
-#EXTINF:-1 group-title="Live TV",纬来电影
-https://stream1.freetv.fun/b2a964056225995e97dae01ee12ad1731055d1dd02b9d72dea856be583cee351.m3u8
 
 #EXTINF:-1 group-title="Live TV",千禧经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -120,23 +84,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 ########## 台灣 ##########
 
-#EXTINF:-1 group-title="Live TV",中天新闻
-https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
-
-#EXTINF:-1 group-title="Live TV",东森综合2台
-http://iptv.4666888.xyz/iptv2A.php?id=5
-
-#EXTINF:-1 group-title="Live TV",astro Aec
-http://php.jdshipin.com/smt.php?id=AEC
-
 #EXTINF:-1 group-title="Live TV",astro Aod
 http://php.jdshipin.com/PLTV/iptv.php?id=aod
-
-#EXTINF:-1 group-title="Live TV",astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-
-#EXTINF:-1 group-title="Live TV",astro 全家
-http://php.jdshipin.com/smt.php?id=Quanjia
 
 ########## 新加坡 ##########
 
@@ -148,11 +97,6 @@ http://cdn6.163189.xyz/163189/ch8
 
 #EXTINF:-1 group-title="Live TV",Ch U (HD)
 http://cdn6.163189.xyz/163189/chu
-
-########## 網絡 ##########
-
-#EXTINF:-1 group-title="Live TV",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
 
 ########## 中國內地 ##########
 
@@ -219,39 +163,6 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
 #EXTINF:-1 group-title="Live TV",央視台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",央視怀旧剧场
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
-
-#EXTINF:-1 group-title="Live TV",央視风云音乐
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
-
-#EXTINF:-1 group-title="Live TV",东方卫视
-http://23.237.228.134/live3/dongfang.m3u8
-
-#EXTINF:-1 group-title="Live TV",江苏卫视
-http://23.237.228.134/live3/jiangsu.m3u8
-
-#EXTINF:-1 group-title="Live TV",浙江卫视
-http://23.237.228.134/live6/zhejiang.m3u8
-
-#EXTINF:-1 group-title="Live TV",北京卫视
-http://23.237.228.134/live3/beijing.m3u8
-
-#EXTINF:-1 group-title="Live TV",山东卫视
-http://23.237.228.134/live8/shandong.m3u8
-
-#EXTINF:-1 group-title="Live TV",四川卫视
-http://23.237.228.134/live6/sichuan.m3u8
-
-#EXTINF:-1 group-title="Live TV",贵州卫视
-http://23.237.228.134/live6/guizhou.m3u8
-
-#EXTINF:-1 group-title="Live TV",广东卫视
-http://23.237.228.134/live6/guangdong.m3u8
-
-#EXTINF:-1 group-title="Live TV",深圳卫视
-http://23.237.228.134/live6/shenzhen.m3u8
-
 #EXTINF:-1 group-title="Live TV",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 
@@ -264,217 +175,19 @@ http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Live TV",天津卫视
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",湖北卫视
-http://23.237.228.134/live6/hubei.m3u8
-
-#EXTINF:-1 group-title="Live TV",江西卫视
-http://23.237.228.134/live8/jiangxi.m3u8
-
-#EXTINF:-1 group-title="Live TV",陕西卫视
+#EXTINF:-1 group-title="Live TV",山西卫视
 http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="Live TV",海南卫视
-http://23.237.228.134/live6/hainan.m3u8
 
 #EXTINF:-1 group-title="Live TV",云南卫视
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Live TV",广西卫视
-http://23.237.228.134/live6/guangxi.m3u8
-
-#EXTINF:-1 group-title="Live TV",东南卫视
-http://23.237.228.134/live6/dongnan.m3u8
-
-#EXTINF:-1 group-title="Live TV",湖南卫视
-http://23.237.228.134/live6/hunan.m3u8
-
-#EXTINF:-1 group-title="Live TV",河南卫视
-http://23.237.228.134/live6/henan.m3u8
-
-#EXTINF:-1 group-title="Live TV",安徽卫视
-http://23.237.228.134/live8/anhui.m3u8
-
-#EXTINF:-1 group-title="Live TV",重庆卫视
-http://23.237.228.134/live6/chongqing.m3u8
-
-#EXTINF:-1 group-title="Live TV",山西卫视
-http://23.237.228.134/live8/shanxi.m3u8
-
-#EXTINF:-1 group-title="Live TV",青海卫视
-http://23.237.228.134/live8/qinghai.m3u8
-
-#EXTINF:-1 group-title="Live TV",河北卫视
-http://23.237.228.134/live8/hebei.m3u8
-
-#EXTINF:-1 group-title="Live TV",内蒙古卫视
-http://23.237.228.134/live8/neimenggu.m3u8
-
-#EXTINF:-1 group-title="Live TV",上海新聞綜合
-http://43.251.226.89:8080/play/54.m3u8
-
-########## 日本 ##########
-
-#EXTINF:-1 group-title="Live TV" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://nl.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://nl.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
-https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-https://nl.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://nl.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://nl.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://nl.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://nl.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="bs10_star_channel" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
-https://nl.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
-https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://nl.utako.moe/skya/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
-https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://nl.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton
-https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
-https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network
-https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://nl.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
-https://nl.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
-https://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
-https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",Golf Network
-https://nl.utako.moe/golf_network/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="the_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-cinema-jp.png",The Cinema
-https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://nl.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://nl.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
-https://nl.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
-https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
-https://nl.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
-https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
-https://nl.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
-https://nl.utako.moe/tabi/index.m3u8
-
 ########## 國際台 ##########
-
-#EXTINF:-1 group-title="Live TV",CNN
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
-
-#EXTINF:-1 group-title="Live TV",BBC News
-http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
 
 #EXTINF:-1 group-title="Live TV",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="Live TV",GB News
-http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445135
-
-#EXTINF:-1 group-title="Live TV",Sky News
-http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/4863
-
 #EXTINF:-1 group-title="Live TV",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 group-title="Live TV",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 group-title="Live TV",MS NOW
-http://cord-cutter.net:8080/81945791/05013455/21376
-
-#EXTINF:-1 group-title="Live TV",NBC
-https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 
 #EXTINF:-1 group-title="Live TV",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -509,9 +222,6 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62c
 #EXTINF:-1 group-title="Live TV",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
-#EXTINF:-1 group-title="Live TV",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
 #EXTINF:-1 group-title="Live TV",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
@@ -533,20 +243,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live TV",SportsGrid
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 
-#EXTINF:-1 group-title="Live TV",Eurosport 4K
-http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-
 #EXTINF:-1 group-title="Live TV",BEIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Live TV",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-#EXTINF:-1 group-title="Live TV",Love Nature
-http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",Fashion Channel
-http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Live TV",Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
@@ -554,17 +255,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 group-title="Live TV",Mytime Movie
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Live TV",MTV
-http://143.244.60.30/MTV/index.m3u8
-
 #EXTINF:-1 group-title="Live TV",Pulse
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",Tastemade
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",Travel XP
-http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
 
 #EXTINF:-1 group-title="Live TV",PowerNation
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
@@ -574,27 +266,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Live TV",PBS Kids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
-
-#EXTINF:-1 group-title="Live TV",Disney Channel
-http://supersonictv.live:8080/live/006779/439866/21795.m3u8
-
-#EXTINF:-1 group-title="Live TV",Disney XD
-http://supersonictv.live:8080/live/006779/439866/21801.m3u8
-
-#EXTINF:-1 group-title="Live TV",Discovery Life
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129866
-
-#EXTINF:-1 group-title="Live TV",Discovery Family
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129865
-
-#EXTINF:-1 group-title="Live TV",Discovery Science
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129867
-
-#EXTINF:-1 group-title="Live TV",National Geographic Wild
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129927
-
-#EXTINF:-1 group-title="Live TV",National Geographic
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129928
 
 #EXTINF:-1 group-title="Live TV",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
@@ -683,9 +354,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1721/lg/a3ad6c/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",News 12
 https://wurlnews12ny.global.transmit.live/hls/68c48577268ca4398b084116/v1/alticeusanewsinc_news12newyork_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1721&wurl_name=News12NewYork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="Live TV",Billiard TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Stadium
 https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=160&wurl_name=Stadium&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
@@ -697,71 +365,11 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 ########## 体育 ##########
 
-#EXTINF:-1 group-title="Live TV",FOX Sports
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
 #EXTINF:-1 group-title="Live TV",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 
-#EXTINF:-1 group-title="Live TV",ESPN 2
-https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",ESPNews
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",ESPN U
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",TSN 1
-http://fl1.moveonjoy.com/TSN_1/mpegts
-
-#EXTINF:-1 group-title="Live TV",TSN 2
-http://fl1.moveonjoy.com/TSN_2/mpegts
-
-#EXTINF:-1 group-title="Live TV",TSN 3
-http://fl1.moveonjoy.com/TSN_3/mpegts
-
-#EXTINF:-1 group-title="Live TV",TSN 4
-http://fl1.moveonjoy.com/TSN_4/mpegts
-
-#EXTINF:-1 group-title="Live TV",TSN 5
-http://fl1.moveonjoy.com/TSN_5/index.m3u8
-
 #EXTINF:-1 group-title="Live TV",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-
-#EXTINF:-1 group-title="Live TV",Sky Sports+
-https://a1xs.vip/2000012
-
-#EXTINF:-1 group-title="Live TV",Sky Sports Tennis
-https://a1xs.vip/2000013
-
-#EXTINF:-1 group-title="Live TV",Sky Sports NFL
-https://a1xs.vip/2000011
-
-#EXTINF:-1 group-title="Live TV",Sky Sports Mix
-https://a1xs.vip/2000008
-
-#EXTINF:-1 group-title="Live TV",TNT Sports 1 HD
-https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",TNT Sports 2 HD
-https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",TNT Sports 3 HD
-https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",TNT Sports 4 HD
-https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-
-#EXTINF:-1 group-title="Live TV",NBA TV
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
-
-#EXTINF:-1 group-title="Live TV",Bellator MMA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Live TV",PFL
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4&serverSideAds=false&checkedby:iptvcat.com
 
 ########################################################################################################## ATV ##########################################################################################################
 
