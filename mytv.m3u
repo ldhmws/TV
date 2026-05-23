@@ -373,12 +373,6 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 ########################################################################################################## ATV ##########################################################################################################
 
-#EXTINF:-1 group-title="成人" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo
-https://nl.utako.moe/pigoo/index.m3u8
-
-#EXTINF:-1 group-title="成人" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise
-https://nl.utako.moe/v_paradise/index.m3u8
-
 #EXTINF:-1 group-title="成人",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
