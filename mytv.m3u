@@ -19,6 +19,9 @@ https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 group-title="Live TV",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 
+#EXTINF:-1 group-title="Live TV",TVB 無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
 #EXTINF:-1 group-title="Live TV",TVB 翡翠3台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
@@ -159,6 +162,12 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
 
 #EXTINF:-1 group-title="Live TV",央視台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Live TV",湖南卫视
+http://198.204.228.26/live/hnwshd.m3u8
+
+#EXTINF:-1 group-title="Live TV",浙江卫视
+http://198.204.228.26/live/zjwshd.m3u8
 
 #EXTINF:-1 group-title="Live TV",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
